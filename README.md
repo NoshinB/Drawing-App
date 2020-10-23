@@ -1,3 +1,5 @@
+  DEMO LINK: http://noshinb-drawingapp.surge.sh/
+
 For our app we decided to create the following tools:
     1) Thearapeutic tool (icon: colour pencils and stencil)
         - For this tool users can change the colour of the flower design.
@@ -21,4 +23,4 @@ Things we need to improve on:
     - We will be working on adding more tools. 
     - We will also work on adding help messages for each tool.
     
-    DEMO LINK: http://noshinb-drawingapp.surge.sh/
+  
